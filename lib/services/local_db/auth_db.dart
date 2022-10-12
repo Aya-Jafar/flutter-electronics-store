@@ -5,10 +5,4 @@ class LocalDb {
 
   static late FlutterSecureStorage storage = const FlutterSecureStorage();
 
-
-
-  static currentUserToken(){
-    
-
-  }
 }
