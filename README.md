@@ -1,16 +1,5 @@
-# get_x_first_trial
+# Flutter API integration
 
-A new Flutter project.
+final result will look like :
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text(https://github.com/Aya-Jafar/flutter-API-integration/blob/main/photo_2023-02-02_04-37-54.jpg)]
